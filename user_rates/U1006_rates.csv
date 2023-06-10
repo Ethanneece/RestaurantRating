@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1006,132954,la parroquia,venustiano carranza,medium,Breakfast-Brunch,3
+U1006,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,3
+U1006,135026,la Cantina,Capitan Caldera No. 420 Tequisqueapan,high,Bar_Pub_Brewery,6
+U1006,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,4
+U1006,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,3
+U1006,135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,high,Bar,4
+U1006,135030,Preambulo Wifi Zone Cafe,Anahuac 805,medium,Cafeteria,4

@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1064,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,4
+U1064,135057,El Herradero Restaurante and Bar,Costado Sur Central Camionera Km 2,medium,Bar,4
+U1064,135069,Abondance Restaurante Bar,Industrias 908 Valle Dorado,low,Bar,1
+U1064,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,2
+U1064,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,4

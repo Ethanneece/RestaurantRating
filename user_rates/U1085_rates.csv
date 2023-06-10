@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1085,135043,pizza clasica,524 Soledad de Graciano Sanchez,medium,Pizzeria,6
+U1085,135059,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,medium,Bar,5
+U1085,135055,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,high,Mexican,6
+U1085,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,6

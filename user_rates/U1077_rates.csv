@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1077,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1077,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,6
+U1077,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,5
+U1077,135027,Restaurant Orizatlan,Pascual M. Hernandez 240,medium,Mexican,2

@@ -1,0 +1,15 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1061,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,4
+U1061,135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,high,Bar,6
+U1061,135026,la Cantina,Capitan Caldera No. 420 Tequisqueapan,high,Bar_Pub_Brewery,6
+U1061,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,6
+U1061,135034,Michiko Restaurant Japones,Cordillera de Los Alpes 160 Lomas 2 Seccion,medium,Japanese,6
+U1061,135041,Luna Cafe,Francisco I. Madero 215,medium,Cafeteria,6
+U1061,135046,Restaurante El Reyecito,Agricultura 595 del Valle,medium,Fast_Food,4
+U1061,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,3
+U1061,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,4
+U1061,135086,Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,medium,Fast_Food,4
+U1061,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,6
+U1061,132955,emilianos,venustiano carranza,low,Bar_Pub_Brewery,6
+U1061,132958,tacos los volcanes,avenida hivno nacional,low,American,6
+U1061,132954,la parroquia,venustiano carranza,medium,Breakfast-Brunch,5

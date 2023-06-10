@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1132,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,6
+U1132,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1132,135025,El Rincon de San Francisco,1a. de Lozada 1,medium,Mexican,4
+U1132,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,6
+U1132,135028,La Virreina,Av. Carranza 830,medium,Mexican,6
+U1132,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,2
+U1132,135027,Restaurant Orizatlan,Pascual M. Hernandez 240,medium,Mexican,3

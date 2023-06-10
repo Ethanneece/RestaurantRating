@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1025,132866,Chaires,Ricardo B. Anaya,medium,Cafeteria,5
+U1025,135071,Restaurante la Cantina,De La Estrella 2005 Estrella de Oriente,medium,Bar_Pub_Brewery,6
+U1025,132958,tacos los volcanes,avenida hivno nacional,low,American,1
+U1025,135028,La Virreina,Av. Carranza 830,medium,Mexican,3
+U1025,132846,el lechon potosino ,circuito oriente esq. carretera 57,low,International,6

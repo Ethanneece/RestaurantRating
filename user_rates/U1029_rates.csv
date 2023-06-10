@@ -1,0 +1,7 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1029,135059,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,medium,Bar,4
+U1029,132937,rockabilly ,agustin de iturbide,low,Bar,3
+U1029,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,3
+U1029,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,1
+U1029,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,2
+U1029,132862,La Posada del Virrey,Av. V. Carranza,high,International,3

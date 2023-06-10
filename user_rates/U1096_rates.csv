@@ -1,0 +1,9 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1096,135025,El Rincon de San Francisco,1a. de Lozada 1,medium,Mexican,6
+U1096,135072,Sushi Itto,Venustiano Carranza 1809 C Polanco,medium,Japanese,4
+U1096,135086,Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,medium,Fast_Food,3
+U1096,135055,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,high,Mexican,6
+U1096,135026,la Cantina,Capitan Caldera No. 420 Tequisqueapan,high,Bar_Pub_Brewery,6
+U1096,132955,emilianos,venustiano carranza,low,Bar_Pub_Brewery,6
+U1096,132958,tacos los volcanes,avenida hivno nacional,low,American,5
+U1096,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,4

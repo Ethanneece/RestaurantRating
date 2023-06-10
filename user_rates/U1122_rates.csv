@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1122,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,4
+U1122,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,4
+U1122,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,5
+U1122,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,6
+U1122,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,5
+U1122,135030,Preambulo Wifi Zone Cafe,Anahuac 805,medium,Cafeteria,4
+U1122,135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,high,Pizzeria,6

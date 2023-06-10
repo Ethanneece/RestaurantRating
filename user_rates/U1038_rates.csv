@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1038,132854,Sirlone,carr. mexico,medium,International,5
+U1038,132856,Unicols Pizza,Plaza del Carmen,low,Italian,2
+U1038,132858,Hamburguesas Valle Dorado,Av. Coral,low,Burgers,3
+U1038,132861,Carls Jr,Av. V. Carranza,medium,Burgers,4
+U1038,132862,La Posada del Virrey,Av. V. Carranza,high,International,6

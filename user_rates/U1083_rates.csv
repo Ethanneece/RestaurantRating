@@ -1,0 +1,7 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1083,135034,Michiko Restaurant Japones,Cordillera de Los Alpes 160 Lomas 2 Seccion,medium,Japanese,6
+U1083,135046,Restaurante El Reyecito,Agricultura 595 del Valle,medium,Fast_Food,5
+U1083,135072,Sushi Itto,Venustiano Carranza 1809 C Polanco,medium,Japanese,5
+U1083,135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,high,Contemporary,6
+U1083,132755,La Estrella de Dimas,Av. de los Pintores,medium,Mexican,6
+U1083,135044,Restaurant Wu Zhuo Yi,Himno Nacional 100 Avenida,medium,Chinese,5

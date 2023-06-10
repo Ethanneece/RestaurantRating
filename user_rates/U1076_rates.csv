@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1076,135039,Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,low,Seafood,5
+U1076,135027,Restaurant Orizatlan,Pascual M. Hernandez 240,medium,Mexican,2
+U1076,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,6
+U1076,135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,high,Bar_Pub_Brewery,4

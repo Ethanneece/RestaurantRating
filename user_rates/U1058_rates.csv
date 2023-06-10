@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1058,135043,pizza clasica,524 Soledad de Graciano Sanchez,medium,Pizzeria,5
+U1058,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,4
+U1058,135053,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,high,Pizzeria,4
+U1058,132885,Hamburguesas saul,Av. Saan Luis enttre moctezuma y salinas,low,Cafeteria,3
+U1058,135055,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,high,Mexican,6

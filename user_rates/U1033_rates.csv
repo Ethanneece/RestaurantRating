@@ -1,0 +1,7 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1033,135028,La Virreina,Av. Carranza 830,medium,Mexican,4
+U1033,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1033,135046,Restaurante El Reyecito,Agricultura 595 del Valle,medium,Fast_Food,4
+U1033,132951,VIPS,NICOLAS ZAPATA 300,low,American,3
+U1033,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,3
+U1033,135030,Preambulo Wifi Zone Cafe,Anahuac 805,medium,Cafeteria,4

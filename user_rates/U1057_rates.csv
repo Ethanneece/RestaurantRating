@@ -1,0 +1,9 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1057,135043,pizza clasica,524 Soledad de Graciano Sanchez,medium,Pizzeria,3
+U1057,132954,la parroquia,venustiano carranza,medium,Breakfast-Brunch,1
+U1057,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,2
+U1057,135046,Restaurante El Reyecito,Agricultura 595 del Valle,medium,Fast_Food,1
+U1057,132862,La Posada del Virrey,Av. V. Carranza,high,International,1
+U1057,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,2
+U1057,135030,Preambulo Wifi Zone Cafe,Anahuac 805,medium,Cafeteria,2
+U1057,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,2

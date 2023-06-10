@@ -1,0 +1,7 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1101,135039,Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,low,Seafood,3
+U1101,135027,Restaurant Orizatlan,Pascual M. Hernandez 240,medium,Mexican,4
+U1101,135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,high,Bar_Pub_Brewery,3
+U1101,132856,Unicols Pizza,Plaza del Carmen,low,Italian,2
+U1101,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,5
+U1101,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,4

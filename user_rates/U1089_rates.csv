@@ -1,0 +1,9 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1089,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,3
+U1089,135028,La Virreina,Av. Carranza 830,medium,Mexican,3
+U1089,132951,VIPS,NICOLAS ZAPATA 300,low,American,3
+U1089,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,3
+U1089,135026,la Cantina,Capitan Caldera No. 420 Tequisqueapan,high,Bar_Pub_Brewery,3
+U1089,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,3
+U1089,135072,Sushi Itto,Venustiano Carranza 1809 C Polanco,medium,Japanese,3
+U1089,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,3

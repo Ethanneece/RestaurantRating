@@ -1,0 +1,83 @@
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1001_near_restaurants.csv U1001 "p|c" 
+Gorditas Doa Gloria located at sevilla y olmedo 715 a
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1002_near_restaurants.csv U1002 "p|c" 
+Restaurante Bar El Gallinero located at Pascual M. Hernandez 210 Centro
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1003_near_restaurants.csv U1003 "p|c" 
+VIPS located at NICOLAS ZAPATA 300
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1004_near_restaurants.csv U1004 "p|c" 
+Luna Cafe located at Francisco I. Madero 215
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1005_near_restaurants.csv U1005 "p|c" 
+Abondance Restaurante Bar located at Industrias 908 Valle Dorado
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1101_near_restaurants.csv U1101 "p|c" 
+Catcher in the Rye located at Los Angeles
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1102_near_restaurants.csv U1102 "p|c" 
+Lettuce B. Frank located at Rochester
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1001_near_restaurants.csv U1001 "p&c" 
+Gorditas Doa Gloria located at sevilla y olmedo 715 a
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1002_near_restaurants.csv U1002 "p&c" 
+Preambulo Wifi Zone Cafe located at Anahuac 805
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1003_near_restaurants.csv U1003 "p&c" 
+Restaurante Marisco Sam located at Ignacio Allende 785 Centro
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1004_near_restaurants.csv U1004 "p&c" 
+Cabana Huasteca located at Cuauhtemoc 455
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1005_near_restaurants.csv U1005 "p&c" 
+Restaurant Wu Zhuo Yi located at Himno Nacional 100 Avenida
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1101_near_restaurants.csv U1101 "p&c" 
+Boneless Bizza located at Spooky Toot Toot Ave
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1102_near_restaurants.csv U1102 "p&c" 
+Tempt Asian located at American Fork
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1001_near_restaurants.csv U1001 "p" 
+Gorditas Doa Gloria located at sevilla y olmedo 715 a
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1002_near_restaurants.csv U1002 "p" 
+Restaurante Bar El Gallinero located at Pascual M. Hernandez 210 Centro
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1003_near_restaurants.csv U1003 "p" 
+La Fontana Pizza Restaurante and Cafe located at Satelite 606 Satelite
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1004_near_restaurants.csv U1004 "p" 
+Luna Cafe located at Francisco I. Madero 215
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1005_near_restaurants.csv U1005 "p" 
+Restaurante la Cantina located at De La Estrella 2005 Estrella de Oriente
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1101_near_restaurants.csv U1101 "p" 
+Catcher in the Rye located at Los Angeles
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1102_near_restaurants.csv U1102 "p" 
+Lettuce B. Frank located at Rochester
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1001_near_restaurants.csv U1001 "c" 
+Cabana Huasteca located at Cuauhtemoc 455
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1002_near_restaurants.csv U1002 "c" 
+rockabilly located at agustin de iturbide
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1003_near_restaurants.csv U1003 "c" 
+Restaurant Wu Zhuo Yi located at Himno Nacional 100 Avenida
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1004_near_restaurants.csv U1004 "c" 
+la Cantina located at Capitan Caldera No. 420 Tequisqueapan
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1005_near_restaurants.csv U1005 "c" 
+Restaurante la Parroquia Potosina located at Venustiano Carranza 303 Centro
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1101_near_restaurants.csv U1101 "c" 
+Boneless Bizza located at Spooky Toot Toot Ave
+
+scala -cp .:ComputeAll.jar Recommender ./user_rates/ ./nearby_restaurants/U1102_near_restaurants.csv U1102 "c" 
+Sconehenge Bakery located at Berkeley

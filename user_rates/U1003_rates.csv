@@ -1,0 +1,10 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1003,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,5
+U1003,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,6
+U1003,132862,La Posada del Virrey,Av. V. Carranza,high,International,5
+U1003,135041,Luna Cafe,Francisco I. Madero 215,medium,Cafeteria,2
+U1003,132937,rockabilly ,agustin de iturbide,low,Bar,5
+U1003,132755,La Estrella de Dimas,Av. de los Pintores,medium,Mexican,5
+U1003,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,6
+U1003,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,6
+U1003,135059,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,medium,Bar,6

@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1032,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,3
+U1032,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,4
+U1032,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,3
+U1032,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,1
+U1032,132856,Unicols Pizza,Plaza del Carmen,low,Italian,2
+U1032,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,2
+U1032,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,3

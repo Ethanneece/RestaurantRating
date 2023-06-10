@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1131,135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,high,Seafood,5
+U1131,132869,Dominos Pizza,Ricardo B. Anaya,medium,Pizzeria,4
+U1131,132866,Chaires,Ricardo B. Anaya,medium,Cafeteria,6
+U1131,132870,Tortas y hamburguesas el gordo,Ricardo B. Anaya,low,Burgers,2

@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1004,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,3
+U1004,135028,La Virreina,Av. Carranza 830,medium,Mexican,6
+U1004,135106,El Rinc�n de San Francisco,Universidad 169,medium,Mexican,6
+U1004,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,6
+U1004,132954,la parroquia,venustiano carranza,medium,Breakfast-Brunch,6
+U1004,132955,emilianos,venustiano carranza,low,Bar_Pub_Brewery,6
+U1004,132958,tacos los volcanes,avenida hivno nacional,low,American,6

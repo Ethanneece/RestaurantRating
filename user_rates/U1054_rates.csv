@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1054,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,6
+U1054,135039,Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,low,Seafood,5
+U1054,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,5
+U1054,132856,Unicols Pizza,Plaza del Carmen,low,Italian,6
+U1054,135025,El Rincon de San Francisco,1a. de Lozada 1,medium,Mexican,6
+U1054,135041,Luna Cafe,Francisco I. Madero 215,medium,Cafeteria,6
+U1054,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,3

@@ -1,0 +1,10 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1036,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,5
+U1036,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,6
+U1036,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,6
+U1036,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1036,135025,El Rincon de San Francisco,1a. de Lozada 1,medium,Mexican,6
+U1036,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,6
+U1036,135059,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,medium,Bar,6
+U1036,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,6
+U1036,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,6

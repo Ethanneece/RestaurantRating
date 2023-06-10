@@ -1,0 +1,9 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1136,135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,high,Contemporary,4
+U1136,132862,La Posada del Virrey,Av. V. Carranza,high,International,6
+U1136,135072,Sushi Itto,Venustiano Carranza 1809 C Polanco,medium,Japanese,3
+U1136,135055,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,high,Mexican,6
+U1136,132958,tacos los volcanes,avenida hivno nacional,low,American,6
+U1136,135048,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,high,Bar,5
+U1136,135046,Restaurante El Reyecito,Agricultura 595 del Valle,medium,Fast_Food,6
+U1136,135028,La Virreina,Av. Carranza 830,medium,Mexican,6

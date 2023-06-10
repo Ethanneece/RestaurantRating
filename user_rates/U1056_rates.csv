@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1056,135027,Restaurant Orizatlan,Pascual M. Hernandez 240,medium,Mexican,6
+U1056,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1056,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,6
+U1056,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,6

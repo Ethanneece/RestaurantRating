@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1001,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,5
+U1001,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,2
+U1001,135039,Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,low,Seafood,3
+U1001,135025,El Rincon de San Francisco,1a. de Lozada 1,medium,Mexican,6

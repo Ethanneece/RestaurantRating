@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1045,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,4
+U1045,132856,Unicols Pizza,Plaza del Carmen,low,Italian,5
+U1045,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1045,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,3
+U1045,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,5
+U1045,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,6
+U1045,135041,Luna Cafe,Francisco I. Madero 215,medium,Cafeteria,4

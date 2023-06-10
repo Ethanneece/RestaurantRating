@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1091,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,2
+U1091,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,6
+U1091,132861,Carls Jr,Av. V. Carranza,medium,Burgers,3
+U1091,135086,Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,medium,Fast_Food,3
+U1091,135035,El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),high,Italian,3

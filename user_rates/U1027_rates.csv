@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1027,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,3
+U1027,132937,rockabilly ,agustin de iturbide,low,Bar,3
+U1027,132951,VIPS,NICOLAS ZAPATA 300,low,American,3
+U1027,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,3
+U1027,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,3

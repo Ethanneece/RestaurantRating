@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1022,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,4
+U1022,135057,El Herradero Restaurante and Bar,Costado Sur Central Camionera Km 2,medium,Bar,6
+U1022,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,4
+U1022,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,6
+U1022,135073,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,high,Bar_Pub_Brewery,6

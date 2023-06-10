@@ -1,0 +1,11 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1134,135044,Restaurant Wu Zhuo Yi,Himno Nacional 100 Avenida,medium,Chinese,3
+U1134,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,4
+U1134,135059,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,medium,Bar,3
+U1134,135046,Restaurante El Reyecito,Agricultura 595 del Valle,medium,Fast_Food,4
+U1134,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,5
+U1134,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,4
+U1134,135055,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,high,Mexican,6
+U1134,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,4
+U1134,135075,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,medium,Seafood,4
+U1134,135074,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,high,Contemporary,6

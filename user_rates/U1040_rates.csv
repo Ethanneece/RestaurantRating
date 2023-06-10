@@ -1,0 +1,4 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1040,132773,El cotorreo,Emiliano Zapata Col. Tres de Mayo,low,Mexican,3
+U1040,134999,Kiku Cuernavaca,Revolucion,medium,Japanese,3
+U1040,135019,Restaurant Bar Coty y Pablo,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,low,Bar,4

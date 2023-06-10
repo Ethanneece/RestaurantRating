@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1037,135054,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,high,Seafood,4
+U1037,135071,Restaurante la Cantina,De La Estrella 2005 Estrella de Oriente,medium,Bar_Pub_Brewery,1
+U1037,132869,Dominos Pizza,Ricardo B. Anaya,medium,Pizzeria,4
+U1037,132854,Sirlone,carr. mexico,medium,International,3

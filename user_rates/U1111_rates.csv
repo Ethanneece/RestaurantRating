@@ -1,0 +1,5 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1111,132845,Cenaduria El Rincón de Tlaquepaque,av. seminario,medium,Mexican,5
+U1111,135071,Restaurante la Cantina,De La Estrella 2005 Estrella de Oriente,medium,Bar_Pub_Brewery,6
+U1111,132858,Hamburguesas Valle Dorado,Av. Coral,low,Burgers,3
+U1111,132854,Sirlone,carr. mexico,medium,International,6

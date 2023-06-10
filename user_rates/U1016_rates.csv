@@ -1,0 +1,10 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1016,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,6
+U1016,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,5
+U1016,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,6
+U1016,135106,El Rinc�n de San Francisco,Universidad 169,medium,Mexican,6
+U1016,132856,Unicols Pizza,Plaza del Carmen,low,Italian,6
+U1016,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,6
+U1016,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,4
+U1016,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,6
+U1016,132862,La Posada del Virrey,Av. V. Carranza,high,International,6

@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1095,135034,Michiko Restaurant Japones,Cordillera de Los Alpes 160 Lomas 2 Seccion,medium,Japanese,6
+U1095,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,5
+U1095,132861,Carls Jr,Av. V. Carranza,medium,Burgers,3
+U1095,135086,Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,medium,Fast_Food,4
+U1095,135055,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,high,Mexican,6
+U1095,135035,El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),high,Italian,6
+U1095,135072,Sushi Itto,Venustiano Carranza 1809 C Polanco,medium,Japanese,6

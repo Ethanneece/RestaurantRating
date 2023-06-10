@@ -1,0 +1,10 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1009,132754,Cabana Huasteca,Cuauhtemoc 455,medium,Mexican,4
+U1009,132862,La Posada del Virrey,Av. V. Carranza,high,International,5
+U1009,135060,Restaurante Marisco Sam,Ignacio Allende 785 Centro,medium,Seafood,3
+U1009,135059,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,medium,Bar,4
+U1009,132834,Gorditas Doa Gloria,sevilla y olmedo 715 a,low,Mexican,5
+U1009,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,4
+U1009,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,2
+U1009,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,3
+U1009,135079,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,high,Chinese,5

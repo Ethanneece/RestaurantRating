@@ -1,0 +1,9 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1084,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,3
+U1084,132862,La Posada del Virrey,Av. V. Carranza,high,International,6
+U1084,135072,Sushi Itto,Venustiano Carranza 1809 C Polanco,medium,Japanese,6
+U1084,135030,Preambulo Wifi Zone Cafe,Anahuac 805,medium,Cafeteria,6
+U1084,135026,la Cantina,Capitan Caldera No. 420 Tequisqueapan,high,Bar_Pub_Brewery,6
+U1084,135035,El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),high,Italian,6
+U1084,132861,Carls Jr,Av. V. Carranza,medium,Burgers,6
+U1084,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6

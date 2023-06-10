@@ -1,0 +1,6 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1090,135052,La Cantina Restaurante,Ignacio Aldama 300 Centro,high,Bar_Pub_Brewery,6
+U1090,132862,La Posada del Virrey,Av. V. Carranza,high,International,6
+U1090,132954,la parroquia,venustiano carranza,medium,Breakfast-Brunch,6
+U1090,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
+U1090,135025,El Rincon de San Francisco,1a. de Lozada 1,medium,Mexican,6

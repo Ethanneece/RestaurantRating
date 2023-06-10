@@ -1,0 +1,8 @@
+user_id,rest_id,name,address,price,cuisine,rate
+U1109,135028,La Virreina,Av. Carranza 830,medium,Mexican,6
+U1109,132856,Unicols Pizza,Plaza del Carmen,low,Italian,3
+U1109,132825,puesto de tacos,esquina santos degollado y leon guzman,low,Mexican,6
+U1109,135032,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,medium,Contemporary,6
+U1109,135042,Restaurant Oriental Express,Tangamanga 7 Tangamanga,medium,Chinese,6
+U1109,135058,Restaurante Tiberius,Munoz Sn Centro,medium,Pizzeria,6
+U1109,135085,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,medium,Fast_Food,6
